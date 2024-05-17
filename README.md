@@ -1,41 +1,11 @@
-<h2 align="left">Hi 👋! My name is sena and I'm a developer, from turkey </h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+curl \
+  --data-urlencode sig="$(\
+   echo '{"body":{"key":{"eldest_kid":"0101c88e73bc090ea8e25dfb8d9fd28eb3a6d22943091da5117790f6dea6f53b99010a","fingerprint":"8459a75b6b2cd548d99984d731efc5a02a751d48","host":"keybase.io","key_id":"31efc5a02a751d48","kid":"0101c88e73bc090ea8e25dfb8d9fd28eb3a6d22943091da5117790f6dea6f53b99010a","uid":"9c058e0a3048cdec121d65c761c96d19","username":"dissenot"},"service":{"name":"github","username":"senakrks"},"type":"web_service_binding","version":1},"ctime":1715950782,"expire_in":157680000,"prev":"a24b6a06ac35996abfcd04b676e4012bc47294805475f48384daa52ca0d5321c","seqno":2,"tag":"signature"}' | \
+   gpg -u '8459a75b6b2cd548d99984d731efc5a02a751d48' -a --sign)" \
+  --data-urlencode type="web_service_binding.github" \
+  --data-urlencode csrf_token="lgHZIDljMDU4ZTBhMzA0OGNkZWMxMjFkNjVjNzYxYzk2ZDE5zmZHVJrOAxcEAMDEIFMRh0A269IQgyOates2DezkLPvcKt/VtJQ3SsN8OToD" \
+  --data-urlencode plain_out="1" \
+  --data-urlencode session="kyjEEJwFjgowSM3sEh1lx2HJbRnEEHu71KLz8f+00Wk4N2Pq7TM=" \
+  --data-urlencode signing_kid="0101c88e73bc090ea8e25dfb8d9fd28eb3a6d22943091da5117790f6dea6f53b99010a" \
+  --data-urlencode remote_username="senakrks" \
+  https://keybase.io/_/api/1.0/sig/post.json
