@@ -1,7 +1,5 @@
-# Merhaba, ben [Senanur Adı Soyadı]
-
-[1-2 cümlelik kısa profesyonel özet — ERP odaklı İş Analistliği geçişi,
-önceki alanın neresiyle bağlantılı, ne tür problemler çözmekten keyif alıyorsun.]
+# Merhaba, ben Senanur Yıldırım
+Elektrik-Elektronik Mühendisliği mezunuyum. ERP tabanlı sipariş, stok ve e-ticaret süreçlerinin operasyonel yönetiminde 2 yıla yakın deneyimim var. Kariyerime *iş analizi* alanında devam ediyorum: gereksinim analizi, user story, süreç modelleme (Draw.io), SQL ve Power BI üzerine vaka çalışmaları üretiyorum.
 
 ## Neye odaklanıyorum
 
@@ -13,13 +11,13 @@
 
 | Proje | Ne yapıldı | Bağlantı |
 |---|---|---|
-| [Proje 1 başlığı] (vaka çalışması) | [1 cümle] | [repo linki] |
-| [Proje 2 başlığı] (vaka çalışması) | [1 cümle] | [repo linki] |
-| [Proje 3 başlığı] (vaka çalışması) | [1 cümle] | [repo linki] |
+| ERP Sipariş İptal & İade Gereksinim Paketi (https://github.com/senakrks/erp-siparis-iade-gereksinim-paketi) | Gereksinim analizi, BRD, user story, UAT 
+| Süreç Analizi Vakası (https://github.com/senakrks/surec-analizi-vakasi)| As-is / To-be süreç iyileştirme 
+| E-Ticaret SQL + Power BI Analizi(https://github.com/senakrks/eticaret-sql-powerbi-analizi) | Veri analizi ve dashboard 
 
 ## İletişim
 
-[LinkedIn / e-posta linki]
+[(https://www.linkedin.com/in/senanur-yildirim)/ senanur.yildirim.ba@gmail.com ]
 
 ---
 *Bu profildeki projeler eğitim/portfolyo amaçlı kurgulanmış vaka çalışmalarıdır.*
